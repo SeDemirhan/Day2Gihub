@@ -16,7 +16,8 @@ public class day2_GitGthub {
          git remote add origin adress
          git push -u origin master
 NOT: Yukarıdaki iki komutu tek seferde kullandıktan sonra ikinci commit'lerim için sadece git push
-kullanırız
+kullanırızgit log --oneline --> commitlerimdeki durumu gosterir.
+Not : 
  */
 
     public static void main(String[] args) {
